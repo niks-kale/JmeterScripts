@@ -1,2 +1,2 @@
 # JmeterScripts
-Repository to host load scripts.
+Repo to host load scripts.
